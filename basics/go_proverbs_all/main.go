@@ -30,6 +30,6 @@ func main() {
 	fmt.Printf("There are 19 Go proverbs:\n")
 
 	for i, p := range proverbs {
-		fmt.Printf("#%d %s \n", i+1, p)
+		fmt.Printf("#%d %s \n", i, p)
 	}
 }
