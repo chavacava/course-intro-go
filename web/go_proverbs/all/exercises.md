@@ -5,7 +5,7 @@ Proverbs are printed in random order. Do you know why?
 Fix the program to print proverbs in the right order
 
 ## 2
-Make the output more web-friendly by genrating HTML code with web links for each proverb.
+Make the output more web-friendly by generating HTML code with web links for each proverb.
 For example, the line
 
 > `#2	Concurrency is not parallelism.`

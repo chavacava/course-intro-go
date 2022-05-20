@@ -12,7 +12,7 @@ fmt.Printf("\n%v\n", proverbs)
 Run the program and analyze the output.
 
 ## 3
-Modify the program to print all the proverbs and their respectives URL.
+Modify the program to print all the proverbs and their respective URL.
 Expected output:
 ```
 #1      Don't communicate by sharing memory, share memory by communicating. (https://www.youtube.com/watch?v=PAAkCSZUG1c&t=2m48s)
@@ -35,4 +35,4 @@ Expected output:
 #18     Documentation is for users. (https://www.youtube.com/watch?v=PAAkCSZUG1c&t=19m07s)
 #19     Don't panic. (https://github.com/golang/go/wiki/CodeReviewComments#dont-panic)
 ```
-Tip: use `for-range` intruction
+Tip: use `for-range` instruction
