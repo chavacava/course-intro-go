@@ -9,7 +9,7 @@ Here's one: Concurrency is not parallelism.
 ```
 
 ## 2
-Modify the code to print the number of proverbs by modifing the line
+Modify the code to print the number of proverbs by modifying the line
 ```go
 fmt.Printf("There are 19 Go proverbs\n")
 ```

@@ -17,7 +17,7 @@ Why?
 
 Modify the program to always print a proverb, even in the case `n` is bigger than the actual number of proverbs (19)
 You can use the `%` mod operator. 
-For example, for `n` being `25` the expexted output is:
+For example, for `n` being `25` the expected output is:
 ```
 There are 19 Go proverbs
 Here's one: #6 interface{} says nothing.

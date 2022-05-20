@@ -4,7 +4,7 @@
 The variable `upTo` indicates the number of proverbs to be printed.
 Even if it is set to `10` the output contains 11 proverbs.
 Why?
-Fix the code to print the numbr of proverbs indicated by `upTo`
+Fix the code to print the number of proverbs indicated by `upTo`
 
 ## 2
 Replace the variable `upTo` by `from`:

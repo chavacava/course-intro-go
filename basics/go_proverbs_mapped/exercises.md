@@ -2,7 +2,7 @@
 
 ## 1 
 We refactored our code to use a map instead of a slice to store the proverbs.
-How to be sure the refactoring did not intruduce bugs?
+How to be sure the refactoring did not introduce bugs?
 Run the tests!
 Remember, the command to run the tests is:
 ```bash
