@@ -1,1 +1,1 @@
-# course-intro-go
+Resources of my "Introduction to GO" course
